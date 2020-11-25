@@ -36,7 +36,7 @@ _Example:_
 
 ```/magento/magento2-dk/instances```
 
-**Copy `magento2-dk/debian_config/composer/auth.json.sample` to `magento2-dk/debian_config/composer/auth.json` and enter your public (username) and private (password) access keys.**
+**Copy `magento2-dev-dk/debian_config/composer/auth.json.sample` to `magento2-dev-dk/debian_config/composer/auth.json` and enter your public (username) and private (password) access keys.**
 
 _Example:_
 
